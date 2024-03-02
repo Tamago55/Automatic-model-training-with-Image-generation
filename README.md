@@ -18,4 +18,8 @@ Operation has been confirmed on Google Colab, so if you want to run it locally y
 
 ## Demonstration
 
+Prepare the trained YOLO model inside the demonstration file and modify the model part of the code in showcase.py to execute it. Then, the PC's camera will activate, and the image detection program will start
+
+<img src="https://raw.githubusercontent.com/Tamago55/Automatic-model-training-with-Image-generation/main/images/demonstration.png" width="80%" alt="Introduction">
+
 
