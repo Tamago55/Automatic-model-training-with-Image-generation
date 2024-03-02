@@ -1,0 +1,12 @@
+names:
+- Socket
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: power-socket-detection-jbgd5
+  url: https://universe.roboflow.com/yolov5-power-socket-detection/power-socket-detection-jbgd5/dataset/1
+  version: 1
+  workspace: yolov5-power-socket-detection
+test: ../test/images
+train: Power-Socket-Detection-1/train/images
+val: Power-Socket-Detection-1/valid/images

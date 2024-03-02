@@ -1,0 +1,5 @@
+names:
+- power outlet
+nc: 1
+train: /content/drive/MyDrive/AAAI/dataset/train/images
+val: /content/drive/MyDrive/AAAI/dataset/valid/images
